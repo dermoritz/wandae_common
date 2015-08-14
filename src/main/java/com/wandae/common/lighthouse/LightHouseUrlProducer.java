@@ -1,6 +1,7 @@
-package com.wandae.common;
+package com.wandae.common.lighthouse;
 
 import javax.enterprise.inject.Produces;
+
 import java.net.MalformedURLException;
 import java.net.URL;
 

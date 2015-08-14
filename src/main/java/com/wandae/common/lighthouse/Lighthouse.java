@@ -1,4 +1,4 @@
-package com.wandae.common;
+package com.wandae.common.lighthouse;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.ElementType;
